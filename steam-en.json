@@ -37,7 +37,7 @@
             ]
         },
         {
-            "isOnPromo": false,
+            "isOnPromo": true,
             "isBundle": false,
             "entitlesProducts": [
             ],
@@ -643,7 +643,7 @@
             ]
         },
         {
-            "isOnPromo": false,
+            "isOnPromo": true,
             "isBundle": false,
             "entitlesProducts": [
             ],
