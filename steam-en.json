@@ -537,7 +537,7 @@
                 "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png"
             ],
             "alias": "182box",
-            "id": "000000000000",
+            "id": "1304420",
             "isVisible": true,
             "title": "boxXpress.de Dispolok",
             "logos": [
@@ -871,6 +871,7 @@
                 "1418847",
                 "1418848",
                 "1304419",
+                "1304420",
                 "1304469",
                 "1418841",
                 "1304448",
