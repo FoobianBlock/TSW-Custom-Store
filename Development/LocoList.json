@@ -1,0 +1,25 @@
+{
+    "packages": [
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "loco",
+            "imageURLs": [
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png"
+            ],
+            "alias": "182box",
+            "id": "000000000000",
+            "isVisible": true,
+            "title": "boxXpress.de Dispolok",
+            "logos": [
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Logos/Dispolok.png"
+            ],
+            "requires": [
+            ]
+        }
+    ]
+}

@@ -27,7 +27,7 @@
             ],
             "itemType": "route",
             "imageURLs": [
-                "https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/Resources/PinkHourTest.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_RH_KeyArt_880x304_Season%20Ticket.jpg",
                 "https://tsw2-store.trainsimworld.net/TSW2_RH_Screenshot1_880x304_Season%20Ticket.jpg",
                 "https://tsw2-store.trainsimworld.net/TSW2_RH_Screenshot2_880x304_Season%20Ticket.jpg"
             ],
@@ -523,6 +523,27 @@
             ],
             "requires": [
                 "1304411"
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "loco",
+            "imageURLs": [
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png"
+            ],
+            "alias": "182box",
+            "id": "000000000000",
+            "isVisible": true,
+            "title": "boxXpress.de Dispolok",
+            "logos": [
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Logos/Dispolok.png"
+            ],
+            "requires": [
             ]
         },
         {
