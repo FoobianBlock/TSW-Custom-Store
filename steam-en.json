@@ -8,7 +8,7 @@
             "itemType": "route",
             "imageURLs": [
                 "https://tsw2-store.trainsimworld.net/TSW2_Boston_KeyArt_880x304.jpg",
-                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/UI%20Mods/Back2Blue_Timetable.jpg",
+                "https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/Resources/Images/UI%20Mods/Back2Blue_Timetable.jpg",
                 "https://tsw2-store.trainsimworld.net/TSW2_Boston_Screenshot_2_880x304.jpg"
             ],
             "alias": "525256",
@@ -16,6 +16,8 @@
             "isVisible": true,
             "title": "Back to Blue",
             "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20Amtrak.png",
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20MBTA.png"
             ]
         },
         {
@@ -25,7 +27,7 @@
             ],
             "itemType": "route",
             "imageURLs": [
-                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/UI%20Mods/PinkHour_KeyArt.jpg",
+                "https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/Resources/Images/UI%20Mods/PinkHour_KeyArt.jpg",
                 "https://tsw2-store.trainsimworld.net/TSW2_RH_Screenshot1_880x304_Season%20Ticket.jpg",
                 "https://tsw2-store.trainsimworld.net/TSW2_RH_Screenshot2_880x304_Season%20Ticket.jpg"
             ],
@@ -56,7 +58,7 @@
             ]
         },
         {
-            "isOnPromo": false,
+            "isOnPromo": true,
             "isBundle": false,
             "entitlesProducts": [
             ],
@@ -117,7 +119,7 @@
             ]
         },
         {
-            "isOnPromo": false,
+            "isOnPromo": true,
             "isBundle": false,
             "entitlesProducts": [
             ],
@@ -502,6 +504,28 @@
             ]
         },
         {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "loco",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2DBBR182Key_Art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2DBBR182Shots_2_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2DBBR182Shots_3_880x304.jpg"
+            ],
+            "alias": "455078",
+            "id": "1304418",
+            "isVisible": true,
+            "title": "DB BR 182",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20DB.png"
+            ],
+            "requires": [
+                "1304411"
+            ]
+        },
+        {
             "isOnPromo": true,
             "isBundle": false,
             "entitlesProducts": [
@@ -512,8 +536,8 @@
                 "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
                 "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png"
             ],
-            "alias": "455078",
-            "id": "1304418",
+            "alias": "182box",
+            "id": "1304420",
             "isVisible": true,
             "title": "boxXpress.de Dispolok",
             "logos": [
@@ -621,7 +645,7 @@
             ]
         },
         {
-            "isOnPromo": true,
+            "isOnPromo": false,
             "isBundle": false,
             "entitlesProducts": [
             ],
@@ -846,6 +870,8 @@
                 "1304446",
                 "1418847",
                 "1418848",
+                "1304419",
+                "1304420",
                 "1304469",
                 "1418841",
                 "1304448",
@@ -864,8 +890,8 @@
             "name": "UI Mods",
             "weight": 3,
             "packages": [
-                "1490114", //Pink Hour
-                "1490117"  //Back to Blue
+                "1490114",
+                "1490117"
             ]
         }
     ],
