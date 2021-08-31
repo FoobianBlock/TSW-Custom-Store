@@ -107,11 +107,11 @@
             ],
             "itemType": "loco",
             "imageURLs": [
-                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
-                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
-                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png"
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Systemtechnik.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Systemtechnik.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Systemtechnik.png"
             ],
-            "alias": "182box",
+            "alias": "182sys",
             "id": "1304421",
             "isVisible": true,
             "title": "BR 182 RT DB Systemtechnick",
