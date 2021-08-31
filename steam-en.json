@@ -541,6 +541,7 @@
                 "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Logos/Dispolok.png"
             ],
             "requires": [
+                "1304411"
             ]
         },
         {
@@ -562,6 +563,7 @@
                 "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20DB.png"
             ],
             "requires": [
+                "1304411"
             ]
         },
         {
@@ -619,28 +621,6 @@
             "title": "Long Island RailRoad",
             "logos": [
                 "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20MTA%20LIRR.png"
-            ]
-        },
-        {
-            "isOnPromo": false,
-            "isBundle": false,
-            "entitlesProducts": [
-            ],
-            "itemType": "loco",
-            "imageURLs": [
-                "https://tsw2-store.trainsimworld.net/TSW2_Preserved%20Collection_BR%20Class%2020.jpg",
-                "https://tsw2-store.trainsimworld.net/TSW2_Preserved%20Collection_BR%20Class%2020%20Screenshot%202.jpg",
-                "https://tsw2-store.trainsimworld.net/TSW2_Preserved%20Collection_BR%20Class%2020%20Screenshot%201.jpg"
-            ],
-            "alias": "455135",
-            "id": "1304464",
-            "isVisible": true,
-            "title": "Class 20 Chopper",
-            "logos": [
-                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20British%20Railways.png"
-            ],
-            "requires": [
-                "1304442"
             ]
         },
         {
@@ -889,8 +869,8 @@
                 "1418847",
                 "1418848",
                 "1304419",
-                "1304420", //RT 182 Boxxpress
-                "1304435", //RT 182 Systemtechnik
+                "1304420",
+                "1304435",
                 "1304469",
                 "1418841",
                 "1304448",
@@ -909,9 +889,9 @@
             "name": "UI Mods",
             "weight": 3,
             "packages": [
-                "1490114", //Pink Hour
-                "1490117", //Back to Blue
-                "1418844" //Reenable Menu Music
+                "1490114",
+                "1490117", 
+                "1418844"
             ]
         }
     ],
