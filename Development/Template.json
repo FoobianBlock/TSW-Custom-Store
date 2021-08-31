@@ -1,0 +1,76 @@
+{
+    "packages": [
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "",
+                ""
+            ],
+            "id": "000000000000",
+            "isVisible": true,
+            "title": "TITLE",
+            "logos": [
+                "",
+                ""
+            ],
+            "requires": [
+                "000000000000",
+                "000000000000"
+            ]
+        },
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "loco",
+            "imageURLs": [
+                "",
+                ""
+            ],
+            "id": "000000000000",
+            "isVisible": true,
+            "title": "TITLE",
+            "logos": [
+                "",
+                ""
+            ],
+            "requires": [
+                "000000000000",
+                "000000000000"
+            ]
+        }
+    ],
+    "rows": [
+        {
+            "name": "Routes",
+            "weight": 1,
+            "packages": [
+                "000000000000",
+                "000000000000"
+            ]
+        },
+        {
+            "name": "Locomotives",
+            "weight": 2,
+            "packages": [
+                "000000000000",
+                "000000000000"
+            ]
+        },
+        {
+            "name": "Season Pass",
+            "weight": 3,
+            "packages": [
+                "000000000000",
+                "000000000000"
+            ]
+        }
+    ],
+    "products": [
+    ]
+}
