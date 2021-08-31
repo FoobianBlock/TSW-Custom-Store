@@ -93,9 +93,30 @@
             "alias": "182box",
             "id": "1304420",
             "isVisible": true,
-            "title": "boxXpress.de Dispolok",
+            "title": "BR 182 RT DB boxXpress.de Dispolok",
             "logos": [
                 "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Logos/Dispolok.png"
+            ],
+            "requires": [
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "loco",
+            "imageURLs": [
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png",
+                "https://github.com/FoobianBlock/TSW-Custom-Store/raw/main/Resources/Images/Liveries/RT182_Boxxpress.png"
+            ],
+            "alias": "182box",
+            "id": "1304421",
+            "isVisible": true,
+            "title": "BR 182 RT DB Systemtechnick",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20DB.png"
             ],
             "requires": [
             ]
@@ -103,15 +124,17 @@
     ],
     "rows": [
         {
-            "name": "Routes",
+            "name": "Enhacements",
             "weight": 1,
             "packages": [
             ]
         },
         {
-            "name": "Locomotives",
+            "name": "Liveries",
             "weight": 2,
             "packages": [
+                "1304420",
+                "1304421"
             ]
         },
         {
