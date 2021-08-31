@@ -1,0 +1,277 @@
+{
+    "packages": [
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_Boston_KeyArt_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Boston_Screenshot_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Boston_Screenshot_2_880x304.jpg"
+            ],
+            "id": "694ef60fef3a48a78ac4f87191c06300",
+            "isVisible": true,
+            "title": "Northeast Corridor: Boston - Providence",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20Amtrak.png",
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20MBTA.png"
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_RH_KeyArt_880x304_Season%20Ticket.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_RH_Screenshot1_880x304_Season%20Ticket.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_RH_Screenshot2_880x304_Season%20Ticket.jpg"
+            ],
+            "id": "ef115f67480a46478899db42c21ecddb",
+            "isVisible": true,
+            "title": "Rush Hour Season Ticket",
+            "logos": [
+            ]
+        },
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2%20Cane%20Creek%20IG%20Assets_CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2%20Cane%20Creek%20IG%20Assets_CMS_Screenshot1_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2%20Cane%20Creek%20IG%20Assets_CMS_Screenshot2_880x304.jpg"
+            ],
+            "id": "4e15fce6604845c0a5fa78153b54f740",
+            "isVisible": true,
+            "title": "Cane Creek: Thompson - Potash",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20Union%20Pacific.png"
+            ]
+        },
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_Cathcart_Circle_Line_IG_Assets_CMS_Key_Art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Cathcart_Circle_Line_IG_Assets_CMS_Screenshot_1_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Cathcart_Circle_Line_IG_Assets_CMS_Screenshot_2_880x304.jpg"
+            ],
+            "id": "f6bd299b47334ceb8d079c08d189f737",
+            "isVisible": true,
+            "title": "Scottish City Commuter: Glasgow - Newton \u0026 Neilston",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20ScotRail.png"
+            ]
+        },
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_Hauptstrecke_Hamburg_L%C3%BCbeck_IG_Assets_CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Hauptstrecke_Hamburg_L%C3%BCbeck_IG_Assets_CMS_Screenshot_1_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Hauptstrecke_Hamburg_L%C3%BCbeck_IG_Assets_Screenshot_2_880x304.jpg"
+            ],
+            "id": "1c45167c0bfc4cd6b681e45d71d8d795",
+            "isVisible": true,
+            "title": "Hauptstrecke Hamburg - Lübeck",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20DB.png",
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20MRCE.png"
+            ]
+        },
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_Clinchfield_Railroad_IG_Assets_CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Clinchfield_Railroad_IG_Assets_CMS_Screenshot1_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Clinchfield_Railroad_IG_Assets_CMS_Screenshot2_880x304.jpg"
+            ],
+            "id": "3962ecd14d2b45faa7da91c95e09c9c7",
+            "isVisible": true,
+            "title": "Clinchfield Railroad: Elkhorn - Dante",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20Clinchfield.png"
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_Arosalinie_IG_Assets_CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Arosalinie_IG_Assets_CMS_880x304_1.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Arosalinie_IG_Assets_CMS_880x304_2.jpg"
+            ],
+            "id": "413a467828b24d5c9de2007d1f84c279",
+            "isVisible": true,
+            "title": "Arosalinie: Chur - Arosa",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20Rahtische%20Bahn.png"
+            ]
+        },
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "loco",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_465_IG_Assets_CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_465_IG_Assets_CMS_Screenshot_1_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_465_IG_Assets_CMS_Screenshot_2_880x304.jpg"
+            ],
+            "id": "0104226a36294c3086eb07261d78ef56",
+            "isVisible": true,
+            "title": "Southeastern BR Class 465 EMU",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20Southeastern.png"
+            ],
+            "requires": [
+                "9697b94eb4334ba2b5ece121b6c28629"
+            ]
+        },
+        {
+            "isOnPromo": false,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2%20SEHS%20CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2%20SEHS%20IG%20Assets%20CMS_Screenshot_1_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2%20SEHS%20IG%20Assets%20CMS_Screenshot_5_880x304.jpg"
+            ],
+            "id": "9697b94eb4334ba2b5ece121b6c28629",
+            "isVisible": true,
+            "title": "Southeastern High Speed: London St Pancras - Faversham",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20Southeastern.png"
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2%20LGV%20IG%20Assets%20CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2%20LGV%20IG%20Assets%20CMS_Screenshot_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2%20LGV%20IG%20Assets%20CMS_Screenshot_880x3042.jpg"
+            ],
+            "id": "65b0b46ff32442cab62ae37be1108e96",
+            "isVisible": true,
+            "title": "LGV Méditerranée: Marseille - Avignon",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20SNCF.png"
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "loco",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_CSX_C40_8W_IG_CMS_Key_art_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_CSX_C40_8W_IG_CMS_Screenshot1_880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_CSX_C40_8W_IG_CMS_Screenshot2_880x304.jpg"
+            ],
+            "id": "8a32103d8aa74bb097fe4cb03616c510",
+            "isVisible": true,
+            "title": "CSX C40-8W",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20CSX.png"
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_Munchen_AugsburgKeyArt.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Munchen_AugsburgShot1.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_Munchen_AugsburgShot2.jpg"
+            ],
+            "id": "bab555992a954b95a187acc31e5147c3",
+            "isVisible": true,
+            "title": "Hauptstrecke Munchen - Augsburg",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20DB.png"
+            ]
+        },
+        {
+            "isOnPromo": true,
+            "isBundle": false,
+            "entitlesProducts": [
+            ],
+            "itemType": "route",
+            "imageURLs": [
+                "https://tsw2-store.trainsimworld.net/TSW2_IoW_In%20Game_Assets%20CMS%20Shot%20Keyart%20880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_IoW_In%20Game_Assets%20CMS%20Shot%20Screenshot%201%20880x304.jpg",
+                "https://tsw2-store.trainsimworld.net/TSW2_IoW_In%20Game_Assets%20CMS%20Shot%20Screenshot%202%20880x304.jpg"
+            ],
+            "id": "9f42ad10447f4e7bbb63433c289c508b",
+            "isVisible": true,
+            "title": "Isle Of Wight: Ryde - Shanklin",
+            "logos": [
+                "https://storage.googleapis.com/tsw2-dlc-prod-origin.trainsimworld.net/Store%20Licensor%20Logos%20-%20NSE.png"
+            ]
+        }
+    ],
+    "rows": [
+        {
+            "name": "Routes",
+            "weight": 1,
+            "packages": [
+                "65b0b46ff32442cab62ae37be1108e96",
+                "bab555992a954b95a187acc31e5147c3",
+                "f6bd299b47334ceb8d079c08d189f737",
+                "9f42ad10447f4e7bbb63433c289c508b",
+                "1c45167c0bfc4cd6b681e45d71d8d795",
+                "3962ecd14d2b45faa7da91c95e09c9c7",
+                "4e15fce6604845c0a5fa78153b54f740",
+                "9697b94eb4334ba2b5ece121b6c28629",
+                "413a467828b24d5c9de2007d1f84c279",
+                "694ef60fef3a48a78ac4f87191c06300"
+            ]
+        },
+        {
+            "name": "Locomotives",
+            "weight": 2,
+            "packages": [
+                "0104226a36294c3086eb07261d78ef56",
+                "8a32103d8aa74bb097fe4cb03616c510"
+            ]
+        },
+        {
+            "name": "Season Pass",
+            "weight": 3,
+            "packages": [
+                "ef115f67480a46478899db42c21ecddb"
+            ]
+        }
+    ],
+    "products": [
+    ]
+}
