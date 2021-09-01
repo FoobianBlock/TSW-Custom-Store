@@ -4,10 +4,18 @@
 
 Add the following code to Train Sim World 2's Game.ini found at `[Documents Folder]\My Games\TrainSimWorld2\Saved\Config\WindowsNoEditor`
 
-``[OnlineStore]
-LiveServer="https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/"``
+```ini
+[OnlineStore]
+LiveServer="https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/"
+```
 
-Or, if you are on Train Sim World 202 add this to the Game.ini found at `[Documents Folder]\My Games\TS2Prototype\Saved\Config\WindowsNoEditor`
+![TSW 2 custom store](https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/Development/20210901144150_1.jpg)
 
-``[OnlineStore]
-FeedURL="https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/"``
+Or, if you are on Train Sim World 2020 add this to the Game.ini found at `[Documents Folder]\My Games\TS2Prototype\Saved\Config\WindowsNoEditor`
+
+```ini
+[OnlineStore]
+FeedURL="https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/"
+```
+
+![TSW 2020 custom store](https://raw.githubusercontent.com/FoobianBlock/TSW-Custom-Store/main/Development/20210901180102_1.jpg)
